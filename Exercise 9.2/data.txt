@@ -1,0 +1,8 @@
+50 Smith,John    123.45
+70 Clinton,Bill  456.78
+40 Bush,George_W 789.10
+60 Obama,Barack  688.90
+20 Ragan,Ronald  999.25
+90 Bush,George   793.22
+30 Ford,Jerald   222.44
+10 Nixon,Richard 777.77
